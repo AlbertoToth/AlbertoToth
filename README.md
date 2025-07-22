@@ -1,16 +1,14 @@
 ## Hi there👋
 
 
-### Unmanned Aerial Systems R&D Engineer
+### Aerospace Software Engineer
 Passionate about learning and working on:
-- Path planning optimization
-- UAV dynamics and control systems
-- Swarm logics
-- Simulations and Real-world deployment
+- Game Development 
+- 3D Simulation Systems
 
 -----------------------------------------------------------------
 
-### Master's graduate in Aerospace Engineering
+### Master's Thesis - Aerospace Engineering
 Thesis: "System Requirements and Architecture Validation of
 a Multi-Vehicle Management Systems (MVMS) for Drones"  
   
